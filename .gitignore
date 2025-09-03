@@ -1,11 +1,11 @@
 # Eclipse
-.classpath
 .project
+.classpath
 .settings/
-# Build output
-bin/
-target/
-out/
-# Outras IDEs (opcional)
+# IntelliJ
 .idea/
 *.iml
+# Build output
+bin/
+out/
+target/
